@@ -19,7 +19,7 @@ const stephanieQuintana = {
       findingWork: true;
       },
   dedicatedTo: "Becoming a full stack JavaScript Developer",
-  currentCurriculum: [TypeScript, RegEx, React,],
+  currentlyLearning: [TypeScript, RegEx, React,],
   degree: Mathematics,
   previousHatsWorn: [identityTheftInvestigator, eventManager, bartender,],
   DailyCodingChallenges: [FrontEndMentor, 50ProjectsIn50Days, JavaScript30,],
