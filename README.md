@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <div style="height=800px;">
-  <img height="240" width="300" align="right" style="vertical-align:middle" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img height="140" width="200" align="right" style="vertical-align:middle" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
     
 
