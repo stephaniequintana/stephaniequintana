@@ -19,7 +19,7 @@ const stephanieQuintana = {
       findingWork: true;
       },
   dedicatedTo: "Becoming a full stack JavaScript Developer",
-  currentCurriculum: [TypeScript, RegEx, JavaScriptFullStack,],
+  currentCurriculum: [TypeScript, RegEx, React,],
   degree: Mathematics,
   previousHatsWorn: [identityTheftInvestigator, eventManager, bartender,],
   DailyCodingChallenges: [FrontEndMentor, 50ProjectsIn50Days, JavaScript30,],
@@ -80,7 +80,7 @@ const stephanieQuintana = {
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a> -->
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a><br>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
