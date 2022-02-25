@@ -1,4 +1,7 @@
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Stephanie Quintana</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+<br />
 
 <div style="height=800px;">
   <img height="140" width="200" align="right" style="vertical-align:middle" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
