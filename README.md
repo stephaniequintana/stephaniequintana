@@ -1,15 +1,9 @@
 
 
-<!--
-**stephaniequintana/stephaniequintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Social icons section -->
 <div style="height=800px;">
   <img height="140" width="200" align="right" style="vertical-align:middle" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
     
-
-
 ```javascript
 
 const stephanieQuintana = {
